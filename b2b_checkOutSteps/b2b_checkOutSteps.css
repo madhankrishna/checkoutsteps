@@ -1,0 +1,42 @@
+.slider-circle-orange {
+  width: 40px;
+  height: 40px;
+  background: orange;
+  border: orange;
+  border-radius: 50px;
+  text-align: center;
+  color: #fff;
+  padding-left: 2px;
+}
+.slider-circle-orange-border {
+  width: 40px;
+  height: 40px;
+  background: #fff;
+  border: 1px solid orange;
+  border-radius: 50px;
+  text-align: center;
+  color: orange;
+  padding-left: 2px;
+}
+.slds-progress-bar-gray {
+  background: #dddbda;
+}
+.slds-progress-bar-orange {
+  background: orange;
+}
+.slider-circle-gray {
+  width: 40px;
+  height: 40px;
+  background: #dddbda;
+  border: #dddbda;
+  border-radius: 50px;
+  text-align: center;
+  color: #333;
+  padding-left: 2px;
+}
+.slds-progress__marker {
+  display: none !important;
+}
+.modalStyling {
+  width: var(--modalWidth, 100px) !important;
+}
